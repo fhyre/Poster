@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgba(37, 34, 34, 0.719);
+}
+
+#background {
+    background-color: black;
+    margin: auto;
+    width: 730px;
+    height: 1200px;
+}
+
+#seven {
+    color: beige;
+    font-size: 1000px;
+    margin: -180px 0px 0px -42px;
+    padding: 0px 0px 0px 0px;
+}
+
+#seconds {
+    color: beige;
+    font-size: 110px;
+    margin: -330px 0px 0px 255px;
+}
+
+.blurbs {
+    color: skyblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+#left-blurb {
+    font-size: 22px;
+    margin: 0px 0px 0px 97px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+#right-blurb {
+    font-size: 14px;
+    margin: -92px 0px 0px 450px;
+    font-weight: lighter;
+}
