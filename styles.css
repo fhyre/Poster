@@ -9,24 +9,22 @@ body {
 
 #background {
     background-color: black;
-    margin-top: -75%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     width: 730px;
     height: 1000px;
 }
 
 #seven {
     color: beige;
-    font-size: 800px;
-    margin-top: 0%;
-    margin-left: -3.7%;
+    font-size: 900px;
+    margin-top: -4%;
+    margin-left: -3.5%;
 }
 
 #seconds {
     color: beige;
     font-size: 100px;
-    margin-top: -189%;
+    margin-top: -180.5%;
     margin-left: 34%;
 }
 
