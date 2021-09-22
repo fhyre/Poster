@@ -9,8 +9,9 @@ body {
 
 #background {
     background-color: black;
-    margin: auto;
-    padding-top: 0px;
+    margin-top: -75%;
+    margin-left: auto;
+    margin-right: auto;
     width: 730px;
     height: 1000px;
 }
@@ -18,7 +19,7 @@ body {
 #seven {
     color: beige;
     font-size: 800px;
-    margin-top: -135%;
+    margin-top: 0%;
     margin-left: -3.7%;
 }
 
