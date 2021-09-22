@@ -17,14 +17,13 @@ body {
 #seven {
     color: beige;
     font-size: 1000px;
-    margin: -180px 0px 0px -42px;
-    padding: 0px 0px 0px 0px;
+    margin: -10% 0px 0px -4%;
 }
 
 #seconds {
     color: beige;
     font-size: 110px;
-    margin: -330px 0px 0px 255px;
+    margin: -63.5% 0px 0px 35%;
 }
 
 .blurbs {
