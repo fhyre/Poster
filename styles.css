@@ -33,13 +33,13 @@ body {
 
 #left-blurb {
     font-size: 22px;
-    margin: 0px 0px 0px 97px;
+    margin: 0px 0px 0px 15%;
     font-weight: bold;
     line-height: 25px;
 }
 
 #right-blurb {
     font-size: 12px;
-    margin: -80px 0px 0px 450px;
+    margin: -10% 0px 0px 62%;
     font-weight: lighter;
 }
