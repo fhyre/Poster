@@ -9,6 +9,7 @@ body {
 
 #background {
     background-color: black;
+    margin: auto;
     width: 730px;
     height: 1200px;
 }
@@ -18,6 +19,7 @@ body {
     font-size: 1000px;
     margin-top: -10%;
     margin-left: -4%;
+    position: sticky;
 }
 
 #seconds {
@@ -25,11 +27,13 @@ body {
     font-size: 110px;
     margin-top: -155%;
     margin-left: 35%;
+    position: sticky;
 }
 
 .blurbs {
     color: skyblue;
     font-family: 'Poppins', sans-serif;
+    position: sticky;
 }
 
 #left-blurb {
