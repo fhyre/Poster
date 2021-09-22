@@ -12,7 +12,6 @@ body {
     margin: auto;
     width: 730px;
     height: 1000px;
-    position: absolute;
 }
 
 #seven {
@@ -20,6 +19,7 @@ body {
     font-size: 800px;
     margin-top: -135%;
     margin-left: -3.7%;
+    position: relative;
 }
 
 #seconds {
