@@ -10,6 +10,7 @@ body {
 #background {
     background-color: black;
     margin: auto;
+    padding-top: 10%;
     width: 730px;
     height: 1000px;
 }
@@ -17,7 +18,7 @@ body {
 #seven {
     color: beige;
     font-size: 900px;
-    margin-top: -4%;
+    margin-top: -20%;
     margin-left: -3.5%;
 }
 
