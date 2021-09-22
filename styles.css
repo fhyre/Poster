@@ -11,42 +11,40 @@ body {
     background-color: black;
     margin: auto;
     width: 730px;
-    height: 1200px;
+    height: 1000px;
+    position: absolute;
 }
 
 #seven {
     color: beige;
-    font-size: 1000px;
-    margin-top: -10%;
-    margin-left: -4%;
-    position: sticky;
+    font-size: 800px;
+    margin-top: -135%;
+    margin-left: -3.7%;
 }
 
 #seconds {
     color: beige;
-    font-size: 110px;
-    margin-top: -200.5%;
-    margin-left: 35%;
-    position: sticky;
+    font-size: 100px;
+    margin-top: -189%;
+    margin-left: 34%;
 }
 
 .blurbs {
     color: skyblue;
     font-family: 'Poppins', sans-serif;
-    position: sticky;
 }
 
 #left-blurb {
     font-size: 22px;
-    margin-top: -10%;
-    margin-left: 15%;
     font-weight: bold;
     line-height: 25px;
+    margin-top: -16%;
+    margin-left: 13%;
 }
 
 #right-blurb {
     font-size: 12px;
-    margin-top: -10%;
-    margin-left: 62%;
     font-weight: lighter;
+    margin-left: 62%;
+    margin-top: -11%;
 }
